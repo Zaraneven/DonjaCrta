@@ -6,7 +6,7 @@ console.log('hello world');
 
 
 let x = 3;
-let b = 4;
+let b = 5;
 let z = x + b;
 console.log('rezultat je ' + z);
 
